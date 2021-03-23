@@ -1,6 +1,6 @@
 {
   "name": "kc-scriptpath",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "[browser] Get base path from loaded script.",
   "main": "scriptpath.js",
   "repository": {
