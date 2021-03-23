@@ -5,7 +5,7 @@
   "main": "scriptpath.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KaisarCode/js-scriptpath.git"
+    "url": "https://github.com/kaisarsnippets/js-scriptpath.git"
   },
   "keywords": [
     "random",
@@ -14,7 +14,7 @@
   "author": "KaisarCode",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KaisarCode/js-scriptpath/issues"
+    "url": "https://github.com/kaisarsnippets/js-scriptpath/issues"
   },
-  "homepage": "https://github.com/KaisarCode/js-scriptpath"
+  "homepage": "https://github.com/kaisarsnippets/js-scriptpath"
 }
